@@ -1,0 +1,13 @@
+<stack>
+  <description brief="Messages and services for humanoid robots">
+    Messages and services for humanoid robots
+    </description>
+  <author>Maintained by Armin Hornung</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/humanoid_msgs</url>
+  <depend stack="common_msgs" /> <!-- geometry_msgs -->
+  <depend stack="ros" />
+  <depend stack="ros_comm" />
+
+</stack>
