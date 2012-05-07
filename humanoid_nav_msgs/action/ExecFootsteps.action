@@ -1,0 +1,8 @@
+# Define the goal
+humanoid_nav_msgs/StepTarget[] footsteps
+float64 feedback_rate
+---
+# Define the result
+---
+# Define a feedback message
+humanoid_nav_msgs/StepTarget[] executed_footsteps
