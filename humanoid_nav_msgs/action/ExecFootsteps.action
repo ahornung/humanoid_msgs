@@ -3,6 +3,7 @@ humanoid_nav_msgs/StepTarget[] footsteps
 float64 feedback_rate
 ---
 # Define the result
+humanoid_nav_msgs/StepTarget[] executed_footsteps
 ---
 # Define a feedback message
 humanoid_nav_msgs/StepTarget[] executed_footsteps
