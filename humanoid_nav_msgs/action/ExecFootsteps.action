@@ -7,3 +7,5 @@ humanoid_nav_msgs/StepTarget[] executed_footsteps
 ---
 # Define a feedback message
 humanoid_nav_msgs/StepTarget[] executed_footsteps
+humanoid_nav_msgs/StepTarget[] executable_footsteps
+humanoid_nav_msgs/StepTarget[] robot_pose 
