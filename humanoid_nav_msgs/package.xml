@@ -8,6 +8,8 @@
   <license>BSD</license>
 
   <url>http://ros.org/wiki/humanoid_nav_msgs</url>
+  <url type="bugtracker">https://github.com/ahornung/humanoid_msgs/issues</url>
+  <url type="repository">https://github.com/ahornung/humanoid_msgs</url>
   <author>Armin Hornung</author>
   
   <buildtool_depend>catkin</buildtool_depend>
