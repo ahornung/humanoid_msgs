@@ -18,6 +18,7 @@ add_service_files(DIRECTORY srv
     FILES
     ClipFootstep.srv
     PlanFootsteps.srv
+    PlanFootstepsBetweenFeet.srv
     StepTargetService.srv )
 
 #Add action files
