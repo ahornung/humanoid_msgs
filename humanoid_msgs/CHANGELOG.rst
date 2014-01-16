@@ -2,6 +2,9 @@
 Changelog for package humanoid_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.2.0 (2013-10-25)
 ------------------
 * Initial catkinization
