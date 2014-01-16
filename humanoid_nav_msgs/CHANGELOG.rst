@@ -2,8 +2,8 @@
 Changelog for package humanoid_nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2014-01-16)
+------------------
 * Add service to (re)plan between feet as start and goal.
 * Contributors: Armin Hornung
 
